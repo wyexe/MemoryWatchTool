@@ -1,0 +1,8 @@
+; MemoryWatchDLL.def : Declares the module parameters for the DLL.
+
+LIBRARY
+
+EXPORTS
+BBB
+ReleaseDLL
+    ; Explicit exports can go here

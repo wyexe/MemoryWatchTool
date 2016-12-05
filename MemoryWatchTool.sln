@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MemoryWatchTool", "MemoryWatchTool\MemoryWatchTool.vcxproj", "{DEEC0F72-ED14-4030-BE86-FE16B84373A4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MemoryWatchDLL", "MemoryWatchDLL\MemoryWatchDLL.vcxproj", "{98CFF262-11B1-446F-84C7-0FEBE22E85B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEEC0F72-ED14-4030-BE86-FE16B84373A4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DEEC0F72-ED14-4030-BE86-FE16B84373A4}.Debug|Win32.Build.0 = Debug|Win32
+		{DEEC0F72-ED14-4030-BE86-FE16B84373A4}.Release|Win32.ActiveCfg = Release|Win32
+		{DEEC0F72-ED14-4030-BE86-FE16B84373A4}.Release|Win32.Build.0 = Release|Win32
+		{98CFF262-11B1-446F-84C7-0FEBE22E85B5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98CFF262-11B1-446F-84C7-0FEBE22E85B5}.Debug|Win32.Build.0 = Debug|Win32
+		{98CFF262-11B1-446F-84C7-0FEBE22E85B5}.Release|Win32.ActiveCfg = Release|Win32
+		{98CFF262-11B1-446F-84C7-0FEBE22E85B5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
